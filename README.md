@@ -9,4 +9,4 @@ This is done through a drop-down that selects the person ID - where the biodiver
 2) Bubble-Chart of operatuional taxonomic units with values illustrated by marker size. 
 
 
-https://kevindai99.github.io/belly-dashboard-challenge/
+https://kevindai99.github.io/BellyButtonDashboard/
